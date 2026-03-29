@@ -84,20 +84,37 @@ The application offers:
 ## 📸 Screenshots
 
 ### 1. Landing Page
-![Landing Page](./screenshots/landing-page.png)
-*Hero section introducing HerNova with call-to-action button*
+**Hero section introducing HerNova with call-to-action button**
+- Displays "Restart Your Career with Confidence" headline
+- Prominent "Start My Comeback Plan" CTA button
+- Clean, motivational design with purple accent colors
 
 ### 2. Career Story Form
-![Career Story Form](./screenshots/career-story-form.png)
-*Form to collect user information about career journey, skills, and career break*
+**Form to collect user information about career journey, skills, and career break**
+- Name and Previous Job Role inputs
+- Years of Experience and Career Break Duration fields
+- Reason for Career Break (optional)
+- Current Skills input (comma-separated)
+- Professional styling with clear labels
 
 ### 3. AI Analysis Dashboard
-![AI Analysis Dashboard](./screenshots/dashboard.png)
-*Personalized dashboard showing readiness score, skill gap analysis, and action plan*
+**Personalized dashboard showing readiness score, skill gap analysis, and action plan**
+- Welcome greeting with user name
+- 78% Readiness Score (circular progress)
+- Skill Gap Analysis with visual progress bars
+- Priority Skills to Learn section
+- Hidden Strengths Detection
+- 3-Phase Action Plan (Foundation & Refresh, Networking, Aggressive Application)
 
 ### 4. Job Opportunities
-![Job Opportunities](./screenshots/job-opportunities.png)
-*Live job listings tailored for women returning to the workforce*
+**Live job listings tailored for women returning to the workforce**
+- Search and filter functionality
+- Job cards displaying:
+  - Job title and company
+  - Job category tags
+  - Location/Remote status
+  - "View & Apply" buttons
+- Multiple opportunity listings from various companies
 
 ---
 
