@@ -84,19 +84,19 @@ The application offers:
 ## 📸 Screenshots
 
 ### 1. Landing Page
-![Landing Page](./screebshots/landing-page.png)
+![Landing Page](./screenshots/landing-page.png)
 *Hero section introducing HerNova with call-to-action button*
 
 ### 2. Career Story Form
-![Career Story Form](./screebshots/career-story-form.png)
+![Career Story Form](./screenshots/career-story-form.png)
 *Form to collect user information about career journey, skills, and career break*
 
 ### 3. AI Analysis Dashboard
-![AI Analysis Dashboard](./screebshots/dashboard.png)
+![AI Analysis Dashboard](./screenshots/dashboard.png)
 *Personalized dashboard showing readiness score, skill gap analysis, and action plan*
 
 ### 4. Job Opportunities
-![Job Opportunities](./screebshots/job-opportunities.png)
+![Job Opportunities](./screenshots/job-opportunities.png)
 *Live job listings tailored for women returning to the workforce*
 
 ---
